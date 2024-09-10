@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacobmorency/Library/CloudStorage/OneDrive-CégepHeritageCollege/Third Year/420-H60/Assignments/jmH60A01/jmH60A01/jmH60A01.csproj": {}
+    "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj": {}
   },
   "projects": {
-    "/Users/jacobmorency/Library/CloudStorage/OneDrive-CégepHeritageCollege/Third Year/420-H60/Assignments/jmH60A01/jmH60A01/jmH60A01.csproj": {
+    "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacobmorency/Library/CloudStorage/OneDrive-CégepHeritageCollege/Third Year/420-H60/Assignments/jmH60A01/jmH60A01/jmH60A01.csproj",
+        "projectUniqueName": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj",
         "projectName": "jmH60A01",
-        "projectPath": "/Users/jacobmorency/Library/CloudStorage/OneDrive-CégepHeritageCollege/Third Year/420-H60/Assignments/jmH60A01/jmH60A01/jmH60A01.csproj",
+        "projectPath": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj",
         "packagesPath": "/Users/jacobmorency/.nuget/packages/",
-        "outputPath": "/Users/jacobmorency/Library/CloudStorage/OneDrive-CégepHeritageCollege/Third Year/420-H60/Assignments/jmH60A01/jmH60A01/obj/",
+        "outputPath": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jacobmorency/.nuget/NuGet/NuGet.Config"

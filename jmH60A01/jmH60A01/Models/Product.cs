@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace jmH60A01.Models;
-
+// Test Comment
 public partial class Product
 {
     public int ProductId { get; set; }

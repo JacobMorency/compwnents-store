@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en" data-theme="nord">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Compwnents</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/css/output.css" rel="stylesheet" />
+
+</head>
+<body>
+<header>
+    <nav class="navbar bg-base-100 shadow-lg mb-3">
+        <div class="container mx-auto">
+            <div class="flex-1">
+                <a class="btn btn-ghost normal-case text-xl" asp-area="" asp-controller="Home" asp-action="Index">Compwnents</a>
+            </div>
+            <div class="flex-none">
+                <button class="btn btn-square btn-ghost lg:hidden" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
+                <div class="navbar-collapse collapse flex justify-between">
+                    <ul class="menu menu-horizontal px-1">
+                        <li>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" asp-area="" asp-controller="ProductCategories" asp-action="Index">Product Categories</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="container mx-auto">
+    <main role="main" class="py-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="footer footer-center p-4 bg-base-200 text-base-content">
+    <div>
+        <p>&copy; 2024 - jmH60A01 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+    </div>
+</footer>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

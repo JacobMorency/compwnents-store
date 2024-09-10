@@ -1,0 +1,44 @@
+﻿@model jmH60A01.Models.JoinProductByCategory
+
+@{
+ViewData["Title"] = "Index";
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Model.Category.ProdCat</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+@* TODO: potentially show all columns of table *@
+<table class="table">
+    <thead>
+    <tr>
+        <th>Description</th>
+        @* <th>Manufacturer</th> *@
+        <th>Stock</th>
+        <th>Buy Price</th>
+        <th>Sell Price</th>
+        @* <th>Category</th> *@
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Products)
+    {
+    <tr>
+        <td>@item.Description</td>
+        @* <td>@item.Manufacturer</td> *@
+        <td>@item.Stock <a asp-controller="Products"  asp-action="UpdateStock" asp-route-id="@item.ProductId" class="btn">Update</a></td>
+        <td>@item.BuyPrice <a asp-controller="Products"  asp-action="UpdateBuyPrice" asp-route-id="@item.ProductId" class="btn">Update</a></td>
+        <td>@item.SellPrice <a asp-controller="Products"  asp-action="UpdateSellPrice" asp-route-id="@item.ProductId" class="btn">Update</a></td>
+        @* <td>@item.ProdCat?.CategoryId</td> *@
+        <td>
+            <a asp-controller="Products" asp-action="Edit" asp-route-id="@item.ProductId"><ion-icon name="pencil" size="large"></ion-icon></a> |
+            <a asp-controller="Products" asp-action="Details" asp-route-id="@item.ProductId"><ion-icon name="open" size="large"></ion-icon></a> |
+            <a asp-controller="Products" asp-action="Delete" asp-route-id="@item.ProductId"><ion-icon name="trash" size="large"></ion-icon></a>
+        </td>
+    </tr>
+    }
+    </tbody>
+</table>

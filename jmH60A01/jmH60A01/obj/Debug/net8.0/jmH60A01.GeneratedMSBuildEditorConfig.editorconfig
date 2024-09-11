@@ -17,95 +17,95 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = jmH60A01
 build_property.RootNamespace = jmH60A01
-build_property.ProjectDir = /Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/
+build_property.ProjectDir = D:\Desktop\H60A01\compwnents-store\jmH60A01\jmH60A01\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01
+build_property.MSBuildProjectDirectory = D:\Desktop\H60A01\compwnents-store\jmH60A01\jmH60A01
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvQ3JlYXRlLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvRGVsZXRlLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvRGV0YWlscy5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvRWRpdC5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/GetProductByCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvR2V0UHJvZHVjdEJ5Q2F0ZWdvcnkuY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/GetProductByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcR2V0UHJvZHVjdEJ5Q2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdENhdGVnb3JpZXMvSW5kZXguY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/ProductCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateBuyPrice.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvVXBkYXRlQnV5UHJpY2UuY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateBuyPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlQnV5UHJpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateSellPrice.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvVXBkYXRlU2VsbFByaWNlLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateSellPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlU2VsbFByaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateStock.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvVXBkYXRlU3RvY2suY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Products/UpdateStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlU3RvY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-fsybf9gbfn
+[D:/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-82lzw478b3

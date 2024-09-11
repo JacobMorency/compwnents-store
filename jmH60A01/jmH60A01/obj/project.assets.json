@@ -7854,24 +7854,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/jacobmorency/.nuget/packages/": {}
+    "C:\\Users\\ohheg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj",
+      "projectUniqueName": "D:\\Desktop\\H60A01\\compwnents-store\\jmH60A01\\jmH60A01\\jmH60A01.csproj",
       "projectName": "jmH60A01",
-      "projectPath": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/jmH60A01.csproj",
-      "packagesPath": "/Users/jacobmorency/.nuget/packages/",
-      "outputPath": "/Users/jacobmorency/Desktop/H60A01/compwnents-store/jmH60A01/jmH60A01/obj/",
+      "projectPath": "D:\\Desktop\\H60A01\\compwnents-store\\jmH60A01\\jmH60A01\\jmH60A01.csproj",
+      "packagesPath": "C:\\Users\\ohheg\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\H60A01\\compwnents-store\\jmH60A01\\jmH60A01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jacobmorency/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ohheg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7939,7 +7941,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

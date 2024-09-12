@@ -13,6 +13,7 @@ public partial class H60assignmentDbJmContext : DbContext
     public H60assignmentDbJmContext(DbContextOptions<H60assignmentDbJmContext> options)
         : base(options)
     {
+        Database.EnsureCreated();
     }
 
     public virtual DbSet<Product> Products { get; set; }
@@ -52,7 +53,7 @@ public partial class H60assignmentDbJmContext : DbContext
             entity.HasKey(e => e.CategoryId);
 
             entity.ToTable("ProductCategory");
-
+            
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
             entity.Property(e => e.ProdCat)
                 .HasMaxLength(60)
@@ -60,6 +61,12 @@ public partial class H60assignmentDbJmContext : DbContext
         });
         
         // Part B Seeding
+
+        modelBuilder.Entity<ShoppingCart>(entity =>
+        {
+            entity.HasKey(e => e.CartId);
+        });
+        
         modelBuilder.Entity<Customer>().HasData(
             new Customer
             {

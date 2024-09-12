@@ -8,7 +8,7 @@ module.exports = {
     extend: {},
   },
   daisyui: {
-    themes: ["light", "dark", "retro", "nord"],    
+    themes: ["light", "dark", "cupcake", "nord", "valentine"],    
   },
   plugins: [require('daisyui')],
 }
